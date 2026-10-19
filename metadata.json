@@ -1,0 +1,6 @@
+{
+  "name": "Review",
+  "description": "Rede social focada em avaliações autênticas de produtos, serviços, entretenimento e experiências reais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
